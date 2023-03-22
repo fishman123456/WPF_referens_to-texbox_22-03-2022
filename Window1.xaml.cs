@@ -19,9 +19,19 @@ namespace WPF_referens_to_texbox_22_03_2022
     /// </summary>
     public partial class Window1 : Window
     {
-        public Window1()
+        public Window1( List<string> data)
         {
             InitializeComponent();
+            foreach ( var item in data )
+            {
+                textbox1.Text += item;
+
+            }
+            
         }
+       
+        
+
+        
     }
 }

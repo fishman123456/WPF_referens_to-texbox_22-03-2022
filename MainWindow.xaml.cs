@@ -25,9 +25,14 @@ namespace WPF_referens_to_texbox_22_03_2022
             InitializeComponent();
         }
 
-        private void Button_Click(object sender, RoutedEventArgs e)
+        private void button2_Click(object sender, RoutedEventArgs e)
         {
+            string data = textbox2.Text;
+            List<string> list = Class_ref.text_ref(ref data);
 
+            Window1 nw = new Window1(list);
+            nw.Owner = this;
+            nw.ShowDialog();
         }
     }
 }

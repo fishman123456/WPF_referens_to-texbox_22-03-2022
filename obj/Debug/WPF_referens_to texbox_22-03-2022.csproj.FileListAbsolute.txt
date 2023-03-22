@@ -14,3 +14,5 @@ C:\Users\profi\Documents\GitHub\WPF_referens_to texbox_22-03-2022\obj\Debug\WPF_
 C:\Users\profi\Documents\GitHub\WPF_referens_to texbox_22-03-2022\obj\Debug\WPF_referens_to texbox_22-03-2022.csproj.CoreCompileInputs.cache
 C:\Users\profi\Documents\GitHub\WPF_referens_to texbox_22-03-2022\obj\Debug\WPF_referens_to texbox_22-03-2022.exe
 C:\Users\profi\Documents\GitHub\WPF_referens_to texbox_22-03-2022\obj\Debug\WPF_referens_to texbox_22-03-2022.pdb
+C:\Users\profi\Documents\GitHub\WPF_referens_to texbox_22-03-2022\obj\Debug\Window1.g.cs
+C:\Users\profi\Documents\GitHub\WPF_referens_to texbox_22-03-2022\obj\Debug\Window1.baml
